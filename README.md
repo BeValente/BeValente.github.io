@@ -2,7 +2,7 @@
 
 # Sistema de Gestão Médica - FF Radiologia
 
-Sistema web completo para gestão médica com controle de aprovação de usuários, desenvolvido especificamente para Portugal.
+Sistema web completo para autogestão financeira médica.
 
 ## 🏥 Funcionalidades
 
@@ -14,13 +14,6 @@ Sistema web completo para gestão médica com controle de aprovação de usuári
 - ✅ Auditoria de pagamentos
 - ✅ Relatórios em PDF/Excel
 - ✅ Suporte a múltiplas moedas (EUR, BRL, USD)
-
-### Para Administradores
-- ✅ Painel administrativo completo
-- ✅ Aprovação/rejeição de novos usuários
-- ✅ Monitoramento de acessos
-- ✅ Estatísticas em tempo real
-- ✅ Logs de auditoria
 
 ## 🇵🇹 Adaptado para Portugal
 
@@ -36,11 +29,6 @@ Sistema web completo para gestão médica com controle de aprovação de usuári
 - **Backend:** Supabase (PostgreSQL + Edge Functions)
 - **Deploy:** GitHub Pages
 - **Autenticação:** Sistema próprio com aprovação
-
-## 🔐 Acesso Administrativo
-
-**Email:**   
-**Função:** Aprovação de novos usuários e gestão do sistema
 
 ## 📊 Sistema de Aprovação
 
