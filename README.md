@@ -39,7 +39,7 @@ Sistema web completo para gestão médica com controle de aprovação de usuári
 
 ## 🔐 Acesso Administrativo
 
-**Email:** admin@ffradiologia.com  
+**Email:**   
 **Função:** Aprovação de novos usuários e gestão do sistema
 
 ## 📊 Sistema de Aprovação
